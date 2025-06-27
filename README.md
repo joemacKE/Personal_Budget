@@ -1,7 +1,7 @@
 # Personal_Budget
 
 
-## 🧠 **PROJECT TITLE: PERSONAL BUDGET MANAGER**
+**PROJECT TITLE: PERSONAL BUDGET MANAGER**
 
 ---
 
@@ -16,13 +16,13 @@
 
 ---
 
-### 📋 **HIGH-LEVEL TASK**
+### **HIGH-LEVEL TASK**
 
 Build a system where users can register themselves, input their income and monthly expenses, and the system will evaluate their spending, classify them, and offer simple budgeting advice.
 
 ---
 
-### 🧱 **BREAKDOWN BLOCKS**
+### **BREAKDOWN BLOCKS**
 
 ---
 
@@ -105,13 +105,6 @@ Build a system where users can register themselves, input their income and month
   * Save data to file
   * Ask if user wants to enter another
 
----
 
-### 🚀 BONUS IDEAS
 
-* Add a method to recommend cost-cutting based on top 3 largest expenses
-* Track multiple months and visualize change in savings
 
----
-
-Would you also like a similar [Django version of this project](f), an [assignment focused on data validation and error handling](f), or a [version that integrates file uploads and graphs](f)?
